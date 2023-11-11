@@ -1,0 +1,14 @@
+[
+	{
+		"name": "post.read",
+		"description": "Allow anyone to read posts",
+		"matchers": ["o.Type == 'post'", "a.Operation == 'read'"],
+		"rules": ["true"]
+	},
+	{
+		"name": "post.edit",
+		"description": "Allow only post owners to edit their posts",
+		"matchers": ["o.Type == 'Post'", "a.Operation == 'edit'"],
+		"rules": ["s.ID == o.OwnerID"]
+	}
+]
