@@ -1,7 +1,7 @@
 > [!WARNING]
-> Yali is still in early development; **do not** depend on this project yet.
+> Yali is in early development; **do not** depend on this project yet.
 >
-> The first public release will be tagged as `v1.0.0-beta`.
+> The first public release will be tagged `v1.0.0`.
 
 # Yali
 
@@ -59,11 +59,5 @@ Yali was created by [Cole Cunningham](https://colecunningham.dev) in November 20
 ## License
 
 This project is MIT licensed. See [LICENSE](LICENSE).
-
-## Onomastic Explaination
-
-I was inspired by the several examples of mythological creatures that protect entry or access to places while thinking of what to name the project. These mythical creatures often symbolize protection and the boundaries between different realms, serving as guardians of the physical and spiritual spaces they inhabit.
-
-In Hindu mythology, the Yali is a mythical creature with the body of a lion or a tiger and the head of another animal, often an elephant. Yalis are frequently depicted as guardians of entrances to temples and other sacred places in South India.
 
 ![Sculpture of a Yali, a mythical creature with the body of a lion or a tiger and the head of another animal, often an elephant.](https://mapacademy.io/wp-content/uploads/2022/04/yali-vyala-2l.jpg)
